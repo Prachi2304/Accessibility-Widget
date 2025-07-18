@@ -1,8 +1,8 @@
-# Accessibility Widget – Skillblend Assignment (Vue.js)
+# Accessibility Widget –(Vue.js)
 
 This project is a floating accessibility widget built using **Vue 3 + Vite**, designed to enhance web accessibility by offering users a set of visual and behavioral customization tools.
 
-> 🔧 Built for the Skillblend Accessibility Widget Assignment.
+> 🔧 Built for the Accessibility Widget.
 
 ---
 
